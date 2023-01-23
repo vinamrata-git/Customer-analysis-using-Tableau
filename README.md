@@ -20,9 +20,9 @@ so, here we are going to do customer analysis and our audiences can be marketing
 3. Prescriptive analysis
 
 ## 3. Your dashboard should be a solution to a problem. 
-1. It could be the solution for effective marketing 
-2. efficient operations 
-3. better customer service 
+1. It could be the solution for an effective marketing 
+2. An efficient operations 
+3. An better customer service 
 
 There are 44 different types of charts make sure you choose the appropriate chart for information you about to show.
 
