@@ -26,5 +26,5 @@ so, here we are going to do customer analysis and our audiences can be marketing
 
 There are 44 different types of charts make sure you choose the appropriate chart for information you about to show.
 
-# And I will be doing customer analysis - Descriptive
+# And I will be doing customer analysis: Descriptive
 
