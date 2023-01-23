@@ -1,5 +1,5 @@
-# Churn-rate-analysis-using-Tableau
-* In this repository I will be using tableau for churn rate analysis and for creating a Dashboard/Report.
+# Customer analysis-using-Tableau
+* In this repository I will be using tableau for customer analysis and for creating a Dashboard/Report.
 
 ## Tableau:
 It is a business intelligence tool used for data visualization, data analysis and story telling. 
