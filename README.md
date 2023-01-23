@@ -1,4 +1,4 @@
-# Customer analysis-using-Tableau
+# Customer analysis using Tableau
 * In this repository I will be using tableau for customer analysis and for creating a Dashboard/Report.
 
 ## Tableau:
