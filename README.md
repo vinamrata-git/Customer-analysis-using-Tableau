@@ -9,7 +9,7 @@ It is a business intelligence tool used for data visualization, data analysis an
 
 ## 1. Objective:
 Customer analysis.
-To do a customer analysis we first need to know our audience.
+* To do a customer analysis we first need to know our audience.
 so, here we are going to do customer analysis and our audiences can be marketing team or research team or even the executive management team. 
 
 
