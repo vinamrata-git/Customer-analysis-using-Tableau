@@ -27,4 +27,6 @@ so, here we are going to do customer analysis and our audiences can be marketing
 There are 44 different types of charts make sure you choose the appropriate chart for information you about to show.
 
 # And I will be doing customer analysis: Descriptive
+* Below is the picturre of dashboard I have created. I will share the link to tableau publish as soon as I will succeed in publishing it. because right now I m getting some issue to publish my work on tableau public.
 
+![alt text](https://github.com/vinamrata-git/Customer-analysis-using-Tableau/blob/main/Customer%20analysis-2.png?raw=true)
